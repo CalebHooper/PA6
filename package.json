@@ -1,0 +1,23 @@
+{
+  "name": "pa6",
+  "version": "1.0.0",
+  "description": "Test Suite For Prime Functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebHooper/PA6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebHooper/PA6/issues"
+  },
+  "homepage": "https://github.com/CalebHooper/PA6#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
